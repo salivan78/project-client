@@ -1,0 +1,12 @@
+.appWrapper {
+    margin: 0 auto;
+    display: grid;
+    width: 1200px;
+    height: 100vh;
+    grid-template-rows: 100px 90px 1fr;
+    grid-template-columns: 1fr;
+    grid-template-areas: 'header' 'navbar' 'content';
+    background-color: white;
+    /*background-color: rgb(255 240 245);*/
+}
+

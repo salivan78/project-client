@@ -1,0 +1,9 @@
+.selectedList {
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.list {
+    cursor: pointer;
+    margin: 0 2px;
+}

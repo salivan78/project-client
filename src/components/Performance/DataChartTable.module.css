@@ -1,0 +1,46 @@
+.table {
+    border-collapse: collapse;
+    border: 3px solid grey;
+    /*width: 1200px;*/
+    margin-top: 10px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.table tr th {
+    border: 1px solid grey;
+}
+
+.prev_data {
+    color: rgba(0, 128, 0, 1);
+    font-weight: bold;
+}
+
+.cur_data {
+    color: rgba(244, 196, 48, 1);
+    font-weight: bold;
+}
+
+.cur_data td:hover {
+    background: rgba(128, 128, 128, 1);
+    text-decoration: underline;
+    font-weight: bold;
+    color: white;
+    text-shadow:
+            0 0 7px #000000,
+            0 0 10px #000000;
+}
+
+.cur_data td {
+    cursor: pointer;
+}
+
+.table td {
+    border: 1px solid grey;
+}
+
+.table tr td div {
+    text-align: center;
+    width: 70px;
+    margin: 5px 0;
+}

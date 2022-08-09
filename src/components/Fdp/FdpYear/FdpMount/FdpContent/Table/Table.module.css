@@ -1,0 +1,53 @@
+.table {
+    border-collapse: collapse;
+    border: 3px solid grey;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.table th {
+    border: 1px solid grey;
+}
+
+.table td {
+    border: 1px solid grey;
+}
+
+/*.one {
+    width: 5%;
+    !*transform: rotate(270deg);*!
+}*/
+
+/*.two {
+    width: 5%;
+}*/
+
+.three {
+    width: 10%;
+    text-align: center;
+}
+
+.four {
+    width: 10%;
+    text-align: center;
+}
+
+.five {
+    width: 5%;
+    text-align: center;
+}
+
+.six {
+    width: 35%;
+    padding: 5px;
+}
+
+.seven {
+    width: 25%;
+    padding: 5px;
+}
+
+.eight {
+    width: 15%;
+    text-align: center;
+}

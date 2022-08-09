@@ -1,0 +1,28 @@
+/*.fdp {
+    display: grid;
+    grid-template-rows: 15px 1fr;
+    grid-template-columns: 1fr;
+}*/
+
+/*.fdpItems ul {
+    margin: 5px;
+}*/
+
+.fdpItems ul li a {
+    text-decoration: none;
+    color: #1109ff;
+}
+
+/*.fdpItems ul li a.activeLink {
+    color: #db1126;
+    font-weight: bold;
+    text-decoration-line: underline;
+}*/
+
+.item {
+
+}
+
+.table {
+
+}

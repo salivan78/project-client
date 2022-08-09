@@ -1,0 +1,82 @@
+.area {
+    width: 1200px;
+}
+
+.area_vol_input input {
+    width: 60px;
+    margin: 0;
+    font-size: 12px;
+}
+
+.area_vol_input button {
+    width: 60px;
+    margin: 10px;
+    font-size: 12px;
+}
+
+.area_vol_input {
+    /*margin: 0 0 0 15px;*/
+    /*max-width: 1200px;*/
+    width: 100%;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    /*position: absolute;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textarea {
+    text-align: center;
+}
+
+.area_hour_input input {
+    width: 60px;
+    margin: 0;
+    border-color: red;
+}
+
+.area_perform td {
+    text-align: center;
+}
+
+.area_button button {
+    /*margin: 10px 35px;*/
+    float: left;
+}
+
+.area_button_print button {
+    float: right;
+}
+
+.area_button_add {
+    float: right;
+    /*margin: 10px 35px;*/
+}
+
+.area_button_add input {
+    margin: 0 10px 0 0;
+}
+
+.chart h2 {
+    margin: 0 5px;
+    text-align: center;
+}
+
+.chart_select {
+    /*display: inline;*/
+    text-align: center;
+}
+
+.chart_prev_select {
+    border-color: rgba(0, 128, 0, 1);
+    margin: 10px 5px;
+    /*float: left;*/
+}
+
+.chart_cur_select {
+    border-color: rgba(244, 196, 48, 1);
+    margin: 10px 5px;
+}

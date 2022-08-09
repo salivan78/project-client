@@ -1,0 +1,90 @@
+.header {
+    grid-area: header;
+    background-color: lightgreen;
+    background-image: url("../../images/nebesnii-fon-odnotonnii-33.jpg");
+    background-size: cover;
+    /*height: 100px;*/
+}
+
+.header_logo div {
+    float: left;
+    width: 400px;
+}
+
+.logo img {
+    margin-left: 10px;
+    margin-top: 5px;
+    height: 60px;
+}
+
+.headerText {
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    animation: flicker 1.5s infinite alternate;
+    color: #fff;
+}
+
+.bluelink a {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+
+.bluelink {
+    text-align: right;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+    color: #fff;
+    text-shadow: 0 0 4px #002beb,
+    0 0 10px #002beb,
+    0 0 18px #5271ff,
+    0 0 34px #5271ff;
+}
+
+.bluelink_logout {
+    text-align: right;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    cursor: pointer;
+    color: #fff;
+    text-shadow: 0 0 4px #002beb,
+    0 0 10px #002beb,
+    0 0 18px #5271ff,
+    0 0 34px #5271ff;
+}
+
+/* Flickering animation */
+@keyframes flicker {
+    100% {
+        text-shadow: 0 0 4px #ff0000,
+        0 0 10px #ff0000,
+        0 0 18px #ee204d,
+        0 0 24px #ee204d,
+        0 0 40px #ee204d;
+    }
+
+    0% {
+        text-shadow: 0 0 2px #ff0000,
+        0 0 6px #ff0000,
+        0 0 10px #ee204d,
+        0 0 15px #ee204d,
+        0 0 28px #ee204d;
+    }
+}
+
+.avatar_name {
+    text-align: right;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.avatar_name img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

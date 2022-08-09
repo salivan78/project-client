@@ -1,0 +1,65 @@
+.table {
+    border-collapse: collapse;
+    border: 2px solid grey;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.table th {
+    border: 1px solid white;
+    /*background-color: grey;*/
+}
+
+.table td {
+    border: 1px solid grey;
+}
+
+/*tr:hover td {
+    background: lightgray;
+}*/
+
+td:hover {
+    border: #282c34;
+}
+
+.cerlink {
+    float: left;
+    padding-right: 30px;
+}
+
+.a {
+    background-color: rgb( 43, 153, 91 );
+}
+.b {
+    background-color: rgb( 43, 153, 91 );
+}
+.c {
+    background-color: rgb( 43, 153, 91 );
+}
+.d {
+    background-color: rgb( 255, 207, 64 );
+}
+.da {
+    background-color: rgb( 255, 186, 0 );
+}
+.e {
+    background-color: rgb( 255, 92, 127 );
+}
+.ea {
+    background-color: rgb( 255, 41, 87 );
+}
+.eb {
+    background-color: rgb( 194, 0, 42 );
+}
+.f {
+    background-color: rgb( 135, 206, 250 );
+}
+.g {
+    background-color: rgb( 120, 83, 148 );
+}
+.h td{
+    background-color: grey;
+    border: 1px solid white;
+}
