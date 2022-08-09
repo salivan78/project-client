@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/project-client/static/css/main.74b7e452.chunk.css",
+    "main.js": "/project-client/static/js/main.8cf62b77.chunk.js",
+    "main.js.map": "/project-client/static/js/main.8cf62b77.chunk.js.map",
+    "runtime-main.js": "/project-client/static/js/runtime-main.2029fe36.js",
+    "runtime-main.js.map": "/project-client/static/js/runtime-main.2029fe36.js.map",
+    "static/js/2.aaa0da5f.chunk.js": "/project-client/static/js/2.aaa0da5f.chunk.js",
+    "static/js/2.aaa0da5f.chunk.js.map": "/project-client/static/js/2.aaa0da5f.chunk.js.map",
+    "static/css/3.169a232a.chunk.css": "/project-client/static/css/3.169a232a.chunk.css",
+    "static/js/3.6a73b059.chunk.js": "/project-client/static/js/3.6a73b059.chunk.js",
+    "static/js/3.6a73b059.chunk.js.map": "/project-client/static/js/3.6a73b059.chunk.js.map",
+    "static/css/4.0ec05327.chunk.css": "/project-client/static/css/4.0ec05327.chunk.css",
+    "static/js/4.4d1e3611.chunk.js": "/project-client/static/js/4.4d1e3611.chunk.js",
+    "static/js/4.4d1e3611.chunk.js.map": "/project-client/static/js/4.4d1e3611.chunk.js.map",
+    "static/js/5.d3cde9b8.chunk.js": "/project-client/static/js/5.d3cde9b8.chunk.js",
+    "static/js/5.d3cde9b8.chunk.js.map": "/project-client/static/js/5.d3cde9b8.chunk.js.map",
+    "index.html": "/project-client/index.html",
+    "static/css/3.169a232a.chunk.css.map": "/project-client/static/css/3.169a232a.chunk.css.map",
+    "static/css/4.0ec05327.chunk.css.map": "/project-client/static/css/4.0ec05327.chunk.css.map",
+    "static/css/main.74b7e452.chunk.css.map": "/project-client/static/css/main.74b7e452.chunk.css.map",
+    "static/js/2.aaa0da5f.chunk.js.LICENSE.txt": "/project-client/static/js/2.aaa0da5f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/project-client/static/media/Meat_products_Bread.614e4fd3.jpg",
+    "static/media/dirlogo.a0462b0f.png": "/project-client/static/media/dirlogo.a0462b0f.png",
+    "static/media/filelogo.f71f6127.png": "/project-client/static/media/filelogo.f71f6127.png",
+    "static/media/Navbar.module.css": "/project-client/static/media/grey.53a34e68.png",
+    "static/media/khv_log_puck_link.55145614.png": "/project-client/static/media/khv_log_puck_link.55145614.png",
+    "static/media/khv_logo_fdp_link.8cf6fd8b.png": "/project-client/static/media/khv_logo_fdp_link.8cf6fd8b.png",
+    "static/media/khv_logo_performance_link.7cb9d833.png": "/project-client/static/media/khv_logo_performance_link.7cb9d833.png",
+    "static/media/km_and_khv_logo.0466efb2.png": "/project-client/static/media/km_and_khv_logo.0466efb2.png",
+    "static/media/Header.module.css": "/project-client/static/media/nebesnii-fon-odnotonnii-33.fa0b7181.jpg",
+    "static/media/wood-miaso-kolbasa-bekon-sous-spetsii-khleb-narezka-assorti.072c255b.jpg": "/project-client/static/media/wood-miaso-kolbasa-bekon-sous-spetsii-khleb-narezka-assorti.072c255b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2029fe36.js",
+    "static/js/2.aaa0da5f.chunk.js",
+    "static/css/main.74b7e452.chunk.css",
+    "static/js/main.8cf62b77.chunk.js"
+  ]
+}
