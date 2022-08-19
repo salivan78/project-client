@@ -30,7 +30,7 @@ export const login = (email, password, rememberMe) => {
             localStorage.setItem('token', response.data.token)
         } catch (e) {
             console.log(e)
-            alert(e.response.data.message)
+            //alert(e.response.data.message)
             dispatch(stopSubmit())
         }
     }
