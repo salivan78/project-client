@@ -5,8 +5,8 @@ const LOGOUT = "LOGOUT"
 const defaultState = {
     currentUser: '',
     userRole: 'admin', // удалить admin
-    //isAuth: false,
-    isAuth: true,
+    isAuth: false,
+    //isAuth: true,
 }
 
 export default function userReducer(state = defaultState, action) {
