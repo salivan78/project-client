@@ -4,7 +4,7 @@ const LOGOUT = "LOGOUT"
 
 const defaultState = {
     currentUser: '',
-    userRole: 'admin', // удалить admin
+    userRole: '', // удалить admin
     isAuth: false,
     //isAuth: true,
 }
