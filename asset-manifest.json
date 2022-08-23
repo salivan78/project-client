@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/project-client/static/css/main.74b7e452.chunk.css",
-    "main.js": "/project-client/static/js/main.ad0ab7ea.chunk.js",
-    "main.js.map": "/project-client/static/js/main.ad0ab7ea.chunk.js.map",
+    "main.css": "/project-client/static/css/main.1a93eb87.chunk.css",
+    "main.js": "/project-client/static/js/main.be0636dc.chunk.js",
+    "main.js.map": "/project-client/static/js/main.be0636dc.chunk.js.map",
     "runtime-main.js": "/project-client/static/js/runtime-main.2029fe36.js",
     "runtime-main.js.map": "/project-client/static/js/runtime-main.2029fe36.js.map",
     "static/js/2.aaa0da5f.chunk.js": "/project-client/static/js/2.aaa0da5f.chunk.js",
@@ -18,7 +18,7 @@
     "index.html": "/project-client/index.html",
     "static/css/3.169a232a.chunk.css.map": "/project-client/static/css/3.169a232a.chunk.css.map",
     "static/css/4.0ec05327.chunk.css.map": "/project-client/static/css/4.0ec05327.chunk.css.map",
-    "static/css/main.74b7e452.chunk.css.map": "/project-client/static/css/main.74b7e452.chunk.css.map",
+    "static/css/main.1a93eb87.chunk.css.map": "/project-client/static/css/main.1a93eb87.chunk.css.map",
     "static/js/2.aaa0da5f.chunk.js.LICENSE.txt": "/project-client/static/js/2.aaa0da5f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/project-client/static/media/Meat_products_Bread.614e4fd3.jpg",
     "static/media/dirlogo.a0462b0f.png": "/project-client/static/media/dirlogo.a0462b0f.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.2029fe36.js",
     "static/js/2.aaa0da5f.chunk.js",
-    "static/css/main.74b7e452.chunk.css",
-    "static/js/main.ad0ab7ea.chunk.js"
+    "static/css/main.1a93eb87.chunk.css",
+    "static/js/main.be0636dc.chunk.js"
   ]
 }
