@@ -26,7 +26,7 @@ const Header = () => {
                 <a href={'https://kalina-malina.ru'}><img src={logo}/></a>
             </div>
             <div className={h.headerText}>
-                КХВ ПОРТАЛ
+                ВОЗМОЖНОСТИ
             </div>
             <div className={h.header_login}>
                 {!isAuth &&
