@@ -4,6 +4,7 @@ import pack from "../../images/khv_log_puck_link.png"
 import nav from './Navbar.module.css'
 import {NavLink} from "react-router-dom";
 import {useSelector} from "react-redux";
+import {GIT_URL} from "../../config";
 
 const Navbar = () => {
 
@@ -16,7 +17,7 @@ const Navbar = () => {
                     <NavLink to="/homepage" activeClassName={nav.activeLink}>Главная</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/performance" activeClassName={nav.activeLink}><img src={p}/></NavLink>
+                    <NavLink to={`${GIT_URL}/performance`} activeClassName={nav.activeLink}><img src={p}/></NavLink>
                 </li>
                 <li className={nav.dropdown}>
                     <p className={nav.dropp}><img src={logoLink}/></p>
