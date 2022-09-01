@@ -16,6 +16,7 @@ import Loader from "./components/utils/Loader";
 import Perform from "./components/Performance/Performance";
 import NewsPost from "./components/Content/NewsPost";
 import NewsPostRoute from "./components/Content/NewsPostRoute";
+import {GIT_URL} from "./config";
 
 const ListsCertificateRoute = React.lazy(() => import("./components/Fdp/FdpYear/FdpMount/FdpContent/QualitySertificate/ListsCertificateRoute"))
 const CertificateListContainer = React.lazy(() => import("./components/Fdp/FdpYear/FdpMount/FdpContent/QualitySertificate/CertificateListContainer"))
@@ -49,7 +50,7 @@ const App = () => {
                         </Switch>
                     }
                     <Switch>
-                        <Route path='/performance' render={() => <Perform/>}/>
+                        <Route path={`${GIT_URL}/performance`} render={() => <Perform/>}/>
                         <Route path='/news' render={() => <NewsPostRoute/>}/>
                         <Route path='/fdp/summary' render={() => <FdpYear/>}/>
                         <Route path='/homepage' render={() => <Content/>}/>
