@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/project-client/static/css/main.1a93eb87.chunk.css",
-    "main.js": "/project-client/static/js/main.a9a310ad.chunk.js",
-    "main.js.map": "/project-client/static/js/main.a9a310ad.chunk.js.map",
-    "runtime-main.js": "/project-client/static/js/runtime-main.4beb27b1.js",
-    "runtime-main.js.map": "/project-client/static/js/runtime-main.4beb27b1.js.map",
-    "static/js/2.b592ff6a.chunk.js": "/project-client/static/js/2.b592ff6a.chunk.js",
-    "static/js/2.b592ff6a.chunk.js.map": "/project-client/static/js/2.b592ff6a.chunk.js.map",
+    "main.js": "/project-client/static/js/main.2e01be8a.chunk.js",
+    "main.js.map": "/project-client/static/js/main.2e01be8a.chunk.js.map",
+    "runtime-main.js": "/project-client/static/js/runtime-main.664d4c66.js",
+    "runtime-main.js.map": "/project-client/static/js/runtime-main.664d4c66.js.map",
+    "static/js/2.8504768e.chunk.js": "/project-client/static/js/2.8504768e.chunk.js",
+    "static/js/2.8504768e.chunk.js.map": "/project-client/static/js/2.8504768e.chunk.js.map",
     "static/css/3.169a232a.chunk.css": "/project-client/static/css/3.169a232a.chunk.css",
-    "static/js/3.6e255a54.chunk.js": "/project-client/static/js/3.6e255a54.chunk.js",
-    "static/js/3.6e255a54.chunk.js.map": "/project-client/static/js/3.6e255a54.chunk.js.map",
+    "static/js/3.3c9d9452.chunk.js": "/project-client/static/js/3.3c9d9452.chunk.js",
+    "static/js/3.3c9d9452.chunk.js.map": "/project-client/static/js/3.3c9d9452.chunk.js.map",
     "static/css/4.0ec05327.chunk.css": "/project-client/static/css/4.0ec05327.chunk.css",
-    "static/js/4.d0c7b508.chunk.js": "/project-client/static/js/4.d0c7b508.chunk.js",
-    "static/js/4.d0c7b508.chunk.js.map": "/project-client/static/js/4.d0c7b508.chunk.js.map",
+    "static/js/4.281c2f60.chunk.js": "/project-client/static/js/4.281c2f60.chunk.js",
+    "static/js/4.281c2f60.chunk.js.map": "/project-client/static/js/4.281c2f60.chunk.js.map",
     "static/js/5.d3cde9b8.chunk.js": "/project-client/static/js/5.d3cde9b8.chunk.js",
     "static/js/5.d3cde9b8.chunk.js.map": "/project-client/static/js/5.d3cde9b8.chunk.js.map",
     "index.html": "/project-client/index.html",
     "static/css/3.169a232a.chunk.css.map": "/project-client/static/css/3.169a232a.chunk.css.map",
     "static/css/4.0ec05327.chunk.css.map": "/project-client/static/css/4.0ec05327.chunk.css.map",
     "static/css/main.1a93eb87.chunk.css.map": "/project-client/static/css/main.1a93eb87.chunk.css.map",
-    "static/js/2.b592ff6a.chunk.js.LICENSE.txt": "/project-client/static/js/2.b592ff6a.chunk.js.LICENSE.txt",
+    "static/js/2.8504768e.chunk.js.LICENSE.txt": "/project-client/static/js/2.8504768e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/project-client/static/media/Meat_products_Bread.614e4fd3.jpg",
     "static/media/dirlogo.a0462b0f.png": "/project-client/static/media/dirlogo.a0462b0f.png",
     "static/media/filelogo.f71f6127.png": "/project-client/static/media/filelogo.f71f6127.png",
@@ -32,9 +32,9 @@
     "static/media/wood-miaso-kolbasa-bekon-sous-spetsii-khleb-narezka-assorti.072c255b.jpg": "/project-client/static/media/wood-miaso-kolbasa-bekon-sous-spetsii-khleb-narezka-assorti.072c255b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4beb27b1.js",
-    "static/js/2.b592ff6a.chunk.js",
+    "static/js/runtime-main.664d4c66.js",
+    "static/js/2.8504768e.chunk.js",
     "static/css/main.1a93eb87.chunk.css",
-    "static/js/main.a9a310ad.chunk.js"
+    "static/js/main.2e01be8a.chunk.js"
   ]
 }
